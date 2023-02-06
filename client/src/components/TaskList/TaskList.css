@@ -1,0 +1,10 @@
+.new-react-tabs .react-tabs__tab-list{
+    border: unset;
+    margin-bottom: 15px;
+}
+
+.new-react-tabs .react-tabs__tab--selected{
+    border: unset;
+    color: #0a91b1;
+    font-weight: 600;
+}
